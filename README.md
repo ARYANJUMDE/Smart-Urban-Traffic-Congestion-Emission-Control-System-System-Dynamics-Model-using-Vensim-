@@ -158,8 +158,6 @@ Urban-Water-Vensim-Project/
 │   ├── Graphs.png
 │   └── scenario_Graphs.png
 │
-├── report/
-│   └── project_report.pdf
 │
 └── README.md
 ```
